@@ -16,6 +16,8 @@ public class GameWindow {
 		WINDOW_WIDTH = windowWidth;
 		WINDOW_HEIGHT = windowHeight;
 		
+		
+		
 		initializeWindow();
 		
 	
