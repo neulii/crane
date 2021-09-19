@@ -29,6 +29,8 @@ public class GameWindow {
 			
 			
 			
+			
+			
 		}
 			
 	}
@@ -39,9 +41,9 @@ public class GameWindow {
 		window = new JFrame("Game");
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		window.setLayout(null);
-		window.setLocationRelativeTo(null);
 		window.setSize(WINDOW_WIDTH,WINDOW_HEIGHT);
 		
+		window.setLocationRelativeTo(null);
 		window.setResizable(false);
 		window.setVisible(true);
 		
